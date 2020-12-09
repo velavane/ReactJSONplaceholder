@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run this project use the below steps
 
-1) use 'npm install' to install all the package
-2) user 'npm start' to run the application into the browser.
+1) Use 'npm install' to install all the package
+2) Use 'npm start' to run the application into the browser.
 3) Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Available Scripts
